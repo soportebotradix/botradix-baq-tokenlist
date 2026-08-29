@@ -19,6 +19,6 @@ Legacy compatibility file: `byteradix-tokenlist-final.json` (kept synchronized w
 
 ## Branding
 
-The token list references the current BAQ mark served by BotRadix at `https://www.botradix.com/baq.svg`.
+`BAQ-logo-256.png` is the current BAQ mark used by this repository and by both token-list files.
 
 > BAQ is described by BotRadix as a utility/access token. It is not equity, debt, or a promise of returns.
