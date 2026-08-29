@@ -1,10 +1,10 @@
 {
   "name": "BotRadix BAQ Token List",
-  "timestamp": "2026-08-29T19:50:00Z",
+  "timestamp": "2026-08-29T20:16:00Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [
     "botradix",
@@ -29,7 +29,7 @@
       "description": "Token deployed on the Base network."
     }
   },
-  "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BAQ-logo-256.png",
+  "logoURI": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/BAQ-logo-256.png",
   "tokens": [
     {
       "chainId": 8453,
@@ -37,7 +37,7 @@
       "name": "BAQ",
       "symbol": "BAQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BAQ-logo-256.png",
+      "logoURI": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/BAQ-logo-256.png",
       "tags": [
         "utility",
         "access",
