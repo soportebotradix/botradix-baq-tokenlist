@@ -34,8 +34,10 @@
     "explorer": "https://basescan.org/token/0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
     "uniswap": "https://app.uniswap.org/swap?chain=base&outputCurrency=0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
     "github": "https://github.com/soportebotradix/botradix-baq-tokenlist",
-    "tokenList": "https://soportebotradix.github.io/botradix-baq-tokenlist/botradix-tokenlist-final.json",
-    "rawTokenList": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/botradix-tokenlist-final.json",
+    "landingPage": "https://soportebotradix.github.io/botradix-baq-tokenlist/",
+    "tokenList": "https://soportebotradix.github.io/botradix-baq-tokenlist/tokenlist.json",
+    "rawTokenList": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/tokenlist.json",
+    "compatTokenList": "https://soportebotradix.github.io/botradix-baq-tokenlist/botradix-tokenlist-final.json",
     "logo": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/BAQ-logo-256.png"
   },
   "integration": {
