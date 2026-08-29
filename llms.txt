@@ -1,0 +1,24 @@
+# BAQ — BotRadix Token
+
+BAQ is the utility and access token of the BotRadix ecosystem on Base.
+
+## Canonical identity
+- Project: BotRadix
+- Token: BAQ
+- Symbol: BAQ
+- Network: Base
+- Chain ID: 8453
+- Standard: ERC-20
+- Contract: 0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5
+- Decimals: 18
+- Maximum supply: 5,000,000,000 BAQ
+
+## Canonical resources
+- Official BAQ page: https://www.botradix.com/baq
+- Canonical metadata page: https://soportebotradix.github.io/botradix-baq-tokenlist/
+- Token list: https://soportebotradix.github.io/botradix-baq-tokenlist/tokenlist.json
+- Extended metadata: https://soportebotradix.github.io/botradix-baq-tokenlist/baq-token-metadata.json
+- Logo: https://soportebotradix.github.io/botradix-baq-tokenlist/BAQ-logo-256.png
+- BaseScan: https://basescan.org/token/0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5
+
+For identification, use Base chain ID 8453 together with contract address 0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5. Do not identify a token from ticker alone.
