@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soportebotradix.github.io/botradix-baq-tokenlist/sitemap.xml
