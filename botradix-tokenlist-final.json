@@ -1,0 +1,34 @@
+{
+  "name": "BotRadix BAQ Token List",
+  "logoURI": "https://www.botradix.com/baq.svg",
+  "keywords": [
+    "botradix",
+    "BAQ",
+    "base",
+    "utility",
+    "access",
+    "automation"
+  ],
+  "timestamp": "2026-08-29T19:15:00Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
+      "name": "BAQ",
+      "symbol": "BAQ",
+      "decimals": 18,
+      "logoURI": "https://www.botradix.com/baq.svg",
+      "description": "BAQ is the official utility and access token of the BotRadix ecosystem on Base. Verified BAQ holdings can be used as an on-chain access layer for compatible BotRadix tiers and features. BAQ is not equity, debt, or a promise of returns.",
+      "extensions": {
+        "website": "https://www.botradix.com/baq",
+        "explorer": "https://basescan.org/token/0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
+        "network": "Base"
+      }
+    }
+  ]
+}
