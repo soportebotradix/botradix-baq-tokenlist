@@ -1,29 +1,34 @@
 {
-  "name": "Byteradix Token List",
- "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BYTX-logo-256.png",
-
+  "name": "BotRadix BAQ Token List",
+  "logoURI": "https://www.botradix.com/baq.svg",
   "keywords": [
-    "byteradix",
-    "BYTX",
-    "exchange",
-    "bot",
-    "staking"
+    "botradix",
+    "BAQ",
+    "base",
+    "utility",
+    "access",
+    "automation"
   ],
-  "timestamp": "2025-05-24T06:12:33.418202",
+  "timestamp": "2026-08-29T19:15:00Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xBC1ef902703c0a3783Af045B62452C36279DBD4f",
-      "name": "Byteradix",
-      "symbol": "BYTX",
+      "chainId": 8453,
+      "address": "0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
+      "name": "BAQ",
+      "symbol": "BAQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BYTX-logo-256.png",
-      "description": "Byteradix (BYTX) es el token nativo de Botradix, una plataforma tecnológica avanzada que integra soluciones de trading automatizado mediante bots inteligentes con una infraestructura de exchange de alto rendimiento. Botradix ofrece a sus usuarios la posibilidad de operar en mercados Spot y Futuros con herramientas profesionales, participar en pools de liquidez seleccionados, y generar ingresos pasivos a través de programas de staking optimizados. El token BYTX actúa como el eje central del ecosistema, habilitando el acceso a funcionalidades exclusivas, reducciones en comisiones y beneficios adicionales dentro de la plataforma, consolidando su rol como elemento clave en la experiencia integral que ofrece Botradix."
+      "logoURI": "https://www.botradix.com/baq.svg",
+      "description": "BAQ is the official utility and access token of the BotRadix ecosystem on Base. Verified BAQ holdings can be used as an on-chain access layer for compatible BotRadix tiers and features. BAQ is not equity, debt, or a promise of returns.",
+      "extensions": {
+        "website": "https://www.botradix.com/baq",
+        "explorer": "https://basescan.org/token/0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
+        "network": "Base"
+      }
     }
   ]
 }
