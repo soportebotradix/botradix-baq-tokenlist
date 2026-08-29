@@ -35,8 +35,9 @@ BAQ is designed for ecosystem utility, access and integration. Compatible BotRad
 
 ## Canonical integration endpoints
 
-- **Token List:** https://soportebotradix.github.io/botradix-baq-tokenlist/botradix-tokenlist-final.json
-- **Raw Token List:** https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/botradix-tokenlist-final.json
+- **Primary Token List:** https://soportebotradix.github.io/botradix-baq-tokenlist/tokenlist.json
+- **BotRadix-named Token List:** https://soportebotradix.github.io/botradix-baq-tokenlist/botradix-tokenlist-final.json
+- **Raw Token List:** https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/tokenlist.json
 - **Extended Metadata:** https://soportebotradix.github.io/botradix-baq-tokenlist/baq-token-metadata.json
 - **Transparent 256×256 Logo:** https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/BAQ-logo-256.png
 - **Official BAQ Page:** https://www.botradix.com/baq
@@ -52,7 +53,7 @@ BAQ should always be identified by:
 - `symbol`: `BAQ`
 - `decimals`: `18`
 
-The canonical token list follows the **Uniswap Token Lists** structure. Rich project information that does not belong in the strict token-list schema is published separately in `baq-token-metadata.json`.
+The canonical `tokenlist.json` follows the **Uniswap Token Lists** structure. Rich project information that does not belong in the strict token-list schema is published separately in `baq-token-metadata.json`.
 
 ## Tokenomics reference
 
@@ -64,9 +65,11 @@ The published maximum supply is **5,000,000,000 BAQ**. This repository intention
 
 ## Repository files
 
-- `botradix-tokenlist-final.json` — canonical DEX/wallet token list.
+- `tokenlist.json` — short canonical endpoint for DEX/wallet integrations.
+- `botradix-tokenlist-final.json` — BotRadix-named copy of the canonical token list.
 - `baq-token-metadata.json` — extended machine-readable BAQ metadata.
 - `BAQ-logo-256.png` — official transparent BAQ token logo.
+- `index.html` — public BAQ metadata landing page for GitHub Pages.
 - `README.md` — human-readable integration reference.
 
 ---
