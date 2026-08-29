@@ -10,28 +10,38 @@
     "decimals": 18,
     "maximumSupply": 5000000000,
     "maximumSupplyDisplay": "5,000,000,000 BAQ",
-    "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BAQ-logo-256.png"
+    "logoURI": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/BAQ-logo-256.png"
   },
   "positioning": {
     "category": "Utility and access token",
-    "summary": "BAQ is the official utility and access token of the BotRadix ecosystem on Base, designed as an on-chain access layer for BotRadix products, automation tools and compatible account tiers.",
+    "summary": "BAQ is the official utility and access token of the BotRadix ecosystem on Base. It provides a verifiable on-chain identity for compatible BotRadix access tiers, automation features and ecosystem integrations.",
+    "ecosystem": "BotRadix combines automated trading infrastructure, account-level access features and blockchain-based utility. BAQ is the ecosystem token used to connect verified on-chain holdings with supported BotRadix products and capabilities.",
     "utility": [
       "On-chain verification of BAQ holdings for compatible BotRadix access tiers",
       "Access gating for supported BotRadix platform capabilities",
       "Integration with the BotRadix automation ecosystem",
-      "Public BAQ/USDC market presence and ecosystem discovery"
+      "Canonical token identity for wallets, DEX interfaces, explorers and indexers",
+      "Public BAQ/USDC market discovery"
     ]
+  },
+  "market": {
+    "canonicalPair": "BAQ/USDC",
+    "network": "Base",
+    "maximumSupply": "5,000,000,000 BAQ"
   },
   "officialLinks": {
     "website": "https://www.botradix.com/baq",
     "explorer": "https://basescan.org/token/0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
     "uniswap": "https://app.uniswap.org/swap?chain=base&outputCurrency=0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5",
-    "tokenList": "https://soportebotradix.github.io/byteradix-tokenlist-v1/botradix-tokenlist-final.json"
+    "github": "https://github.com/soportebotradix/botradix-baq-tokenlist",
+    "tokenList": "https://soportebotradix.github.io/botradix-baq-tokenlist/botradix-tokenlist-final.json",
+    "rawTokenList": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/botradix-tokenlist-final.json",
+    "logo": "https://raw.githubusercontent.com/soportebotradix/botradix-baq-tokenlist/main/BAQ-logo-256.png"
   },
   "integration": {
-    "canonicalPair": "BAQ/USDC",
     "tokenListFormat": "Uniswap Token Lists compatible",
     "preferredLogoFormat": "Transparent PNG",
-    "preferredLogoSize": "256x256"
+    "preferredLogoSize": "256x256",
+    "canonicalIdentifier": "8453:0x1B9f61483Dd6710E1Ad3b9d0bb92b710F1BA56B5"
   }
 }
